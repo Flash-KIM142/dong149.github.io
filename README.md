@@ -1,3 +1,3 @@
 # Patric Ryu Blog
 
-[바로가기](dong149.github.io)
+[바로가기](https://dong149.github.io/)
