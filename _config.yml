@@ -1,10 +1,9 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: PatrickRyu Blog
+author: dong149
+email: donghoon149@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  류동훈(Patrick Ryu)의 개인 블로그입니다. 
+  저의 이야기와 서비스 개발/기획/마케팅 경험들에 관련된 정보들을 담은 블로그입니다.
 show_excerpts: true # set to true to show excerpts on the homepage
 url: https://dong149.github.io
 # Minima date format
@@ -14,18 +13,18 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Patrick Ryu
+  tagline: Project Manager. Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github: thelehhman
-    linkedIn: in/thelehhman
+    twitter:
+    github: dong149
+    linkedIn: in/patrick-ryu-4a1b46199
     rss: rss
 
 # If you want to link only specific pages in your header, uncomment
