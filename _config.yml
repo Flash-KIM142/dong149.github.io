@@ -17,9 +17,9 @@ texture:
   tagline: Project Manager. Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
-
+  disqus_shortname: 류동훈
   # generate social links in footer
   social_links:
     twitter:
