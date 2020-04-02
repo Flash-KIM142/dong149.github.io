@@ -20,6 +20,7 @@ texture:
   showNav: true
   showPicker: false
   disqus_shortname: dong149
+  analytics_id: dong149
   # generate social links in footer
   social_links:
     twitter:
