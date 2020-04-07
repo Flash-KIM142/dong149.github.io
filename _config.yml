@@ -1,3 +1,4 @@
+locale: "ko"
 title: 류동훈 (Patrick Ryu) 블로그
 author: dong149
 email: donghoon149@gmail.com
@@ -6,12 +7,11 @@ description: > # this means to ignore newlines until "show_exerpts:"
   저의 이야기와 서비스 개발/기획/마케팅 경험들에 관련된 정보들을 담은 블로그입니다.
 show_excerpts: true # set to true to show excerpts on the homepage
 url: https://dong149.github.io
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
-
-locale: "ko-KR"
 
 permalink: /posts/:title/
 texture:
