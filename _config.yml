@@ -11,6 +11,8 @@ url: https://dong149.github.io
 sass:
   sass_dir: _sass
 
+locale: "ko-KR"
+
 permalink: /posts/:title/
 texture:
   title: Patrick Ryu
