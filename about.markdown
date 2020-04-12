@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 류동훈 (Patrick Ryu)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![애플본사에서]({{ '스크린샷 2020-03-31 오후 9.09.15.png' | relative_url }})
+![버클리에서]({{ '스크린샷 2020-03-31 오후 9.09.07.png' | relative_url }})
+![인터뷰때]({{ '스크린샷 2020-03-31 오후 9.09.21.png' | relative_url }})
