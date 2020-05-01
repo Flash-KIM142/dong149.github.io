@@ -1,2 +1,3 @@
 User-agent: *
+Allow:/
 Sitemap: https://dong149.github.io/sitemap.xml
