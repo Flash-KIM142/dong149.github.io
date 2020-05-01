@@ -4,6 +4,7 @@ description: TensorFlow 를 사용할 때 필요한 내용들을 정리해놓은
 author: 류동훈
 layout: post
 part: developing
+locale: ko-KR
 ---
 
 Tensorflow 가이드
