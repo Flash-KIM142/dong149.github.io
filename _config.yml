@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   저의 이야기와 서비스 개발/기획/마케팅 경험들에 관련된 정보들을 담은 블로그입니다.
 show_excerpts: true # set to true to show excerpts on the homepage
 url: https://dong149.github.io
+image: https://github.com/dong149/image_resources/blob/master/patrick_blog/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-03-31%20%EC%98%A4%ED%9B%84%209.09.15.png?raw=true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
