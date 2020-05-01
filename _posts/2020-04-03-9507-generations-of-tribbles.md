@@ -1,15 +1,16 @@
 ---
 title: 9507번 Generations of Tribbles
+description: 9507번 Generations of Tribbles 백준 알고리즘 문제
+author: 류동훈
 layout: post
 categories:
-- 동적계획법
-- dp
-- 알고리즘
+  - 동적계획법
+  - dp
+  - 알고리즘
 part: algorithm
 ---
 
 피보나치 문제를 조금 변형한 dp 문제다. 간단하게 손 풀기로 문제를 하나 풀어보았다.
-
 
 ```c++
 // Generations of Tribbles

@@ -1,5 +1,7 @@
 ---
 title: final cut pro X 가이드
+description: final cut pro를 사용할 때 실제로 제가 사용하는 단축키들을 모아놓은 글입니다.
+author: 류동훈
 layout: post
 part: developing
 ---
@@ -7,23 +9,17 @@ part: developing
 파이널 컷 프로 유용한 단축키를 모아봤습니다.
 영상 작업시에 제가 직접 사용하는 키들입니다.
 
-
-
 ## final cut pro x
 
 연결포인트
 command+option 누르고 선택 : 연결포인트 옮기기
 ` 누르고 옮기기 : 연결포인트 무시하고 옮기기
 
-
-
-
 I : In Point
 O : Out-Point
 E : Main Storyline 맨 뒤에 붙이기
 Q : Main Storyline 에 연결하여 위에 붙여준다.
 W : Time Indicator 기준으로 비집고 넣기.
-
 
 타임라인 조작
 Command+R : 속도 조절계를 껐다 켰다 할 수 있다.
@@ -40,8 +36,7 @@ Trim 도구 선택하고 이동하면 잘린 파트가 이동가능하다.
 
 Position 도구를 사용하면 뭉개지지 않고 이동가능하다.
 
-
-Control+Option+’S’  : 소리와 영상 구분된다.(Expand Components) 다시 누르면 합쳐진다.
+Control+Option+’S’ : 소리와 영상 구분된다.(Expand Components) 다시 누르면 합쳐진다.
 Control+Shift + ’S’ : 소리와 영상이 아예 구분된다.(다시 합쳐지지 않음)
 Shift + ‘2’ : 애초에 영상만 딸려온다.
 
@@ -63,7 +58,7 @@ Effect의 Audio->levels->Limiter 추천 : 사운드 단단해지게 가능.
 
 다 선택해서 command shift ‘V’ : 어트리뷰트를 한 번에 설정가능.
 
-Transition은 Dissolves 의 Cross Dissolve 추천 
+Transition은 Dissolves 의 Cross Dissolve 추천
 사이부분 선택후 Command+’T’ : 트랜지션 적용된다.
 
 Option+Command+’8’ : Record VoiceOver
@@ -72,19 +67,13 @@ Command + ‘G’ : 음성녹음한 것을 Trimming하고 싶을 때, 별도의 
 
 Command + ‘9’ : 얼마나 진행되고있는지 Process 확인 가능
 
-
 Thumbnail 만들기
 Export 에서 -> Save current Frame -> Settings -> JPEG 파일로
-
-
 
 작업 끝나고 저장하기
 Delete Generated Library Files -> Delete Render Files -> All -> Consolidate Library Media (여기저기 흩어져있을지도 모르는 것들을 합쳐준다.)
 
-
 http://bit.ly/mklpkcb
-
-
 
 영상 재생 중 컷하기
 Command + ‘B’
